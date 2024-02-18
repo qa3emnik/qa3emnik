@@ -31,26 +31,22 @@
 
 #
 
-### 📺 Some of the Projects
-
-<!-- BEGIN Projects-CARDS -->
-![The AI Article Suumarizer App ](https://ai-summarize-article-app.vercel.app/)
-![The Jewerly Shop ](https://ringston-store.vercel.app/)
-![The Nike Website ](https://nike-shoes-website.vercel.app/)
-![The Modern Payment ](https://hoobank-website-nine.vercel.app/)
-<!-- END Projects-Cards -->
-
-#
-
 <details>
  <summary><h3>👨‍💻 Qasem's Coding Journey</h3></summary>
 The scent of fresh paper once defined my days, guiding young minds as an education consultant. But a digital whisper called, pixels promising possibilities. My journey began, a tentative step into the unknown.
+
 ** Associate Graphic Designer:** A dance of colors and stories, igniting a curiosity for the mechanics behind the magic.
+
 ** Product Designer:** Unveiling the user's pulse, where empathy fueled function. Yet, I hungered to craft the very tools.
+
 ** Web Developer:** Front-end mastery, painting user journeys line by line. But the symphony wasn't complete.
+
 ⚛️ Freelance ReactJS Developer: Now, I stand at the intersection, the journey etched in late nights and relentless learning. Each conquered hurdle, each delivered project, a surge of exhilaration. I don't just build websites; I weave connections, bridges between humans and technology.
+
 This story is unfinished, the digital canvas constantly evolving. Challenges and possibilities beckon, fueled by curiosity and a challenger's spirit. Pushing boundaries, exploring uncharted territories.
+
 From pen and paper to pixels and possibilities, this isn't just a career; it's a quest. To create, connect, and contribute to the ever-changing tapestry of the digital world. A quest with no end, driven by the fire to do more, to be better.
+
 This isn't just a story; it's an invitation. Share your journey, and together, let's paint the digital future with creativity, innovation, and purpose.
 
 ### Connect with me:
