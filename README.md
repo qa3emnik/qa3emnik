@@ -52,8 +52,11 @@ This isn't just a story; it's an invitation. Share your journey, and together, l
 ### Connect with me:
 
 LinkedIn: [https://www.linkedin.com/in/qasemnik/]
+
 Behance: [https://www.behance.net/qasemnik]
+
 Website: [https://codemaverick.xyz]
+
 Email: [qn.webdev@codemaverick.xyz]
 
 ### 🙂 Ready to collaborate? Let's make something amazing!
