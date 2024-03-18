@@ -31,7 +31,6 @@
 
 #
 
-<details>
  <summary><h3>👨‍💻 Qasem's Coding Journey</h3></summary>
 The scent of fresh paper once defined my days, guiding young minds as an education consultant. But a digital whisper called, pixels promising possibilities. My journey began, a tentative step into the unknown.
 
