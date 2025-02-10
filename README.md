@@ -1,4 +1,4 @@
-![Header Image](https://i.imgur.com/cOQ4hiB.png)
+![Header Image](https://i.imgur.com/kQnHbIc.png)
 
 # 👋 Hi, I’m Qasem  
 I'm a **Front-End Developer** passionate about creating **immersive, high-performance websites and applications**. With expertise in **React**, **Next.js**, and modern web technologies, I specialize in crafting user-friendly designs and scalable solutions.
