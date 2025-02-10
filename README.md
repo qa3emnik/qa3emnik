@@ -1,4 +1,4 @@
-![Header Image]([[https://via.placeholder.com/1000x200?text=Your+Custom+Header+Image](https://imgur.com/cOQ4hiB)](https://imgur.com/a/Fh16tZm)) 
+![Header Image](https://imgur.com/a/Fh16tZm)
 
 # 👋 Hi, I’m Qasem  
 I'm a **Front-End Developer** passionate about creating **immersive, high-performance websites and applications**. With expertise in **React**, **Next.js**, and modern web technologies, I specialize in crafting user-friendly designs and scalable solutions.
